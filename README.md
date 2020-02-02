@@ -1,5 +1,7 @@
 # Enshrined
 
+<img src="/img/DotsAndBoxes.PNG" width="500" />
+
 Created for the 2020 Global Game Jam.
 
 Enshrined is a 2-player game where you compete to repair your own shrines before the opponent can repair theirs.
